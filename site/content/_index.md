@@ -8,15 +8,11 @@ blurb:
     I am a recent mechanical engineering graduate from University of Louisville.
     I have various skills such as Solidworks, AutoCAD, Adobe Inventor, Toon Boom
     Harmony, SAP, OBS Studio, Makerbot, Garageband, and Microsoft Office. I have
-    spent hundreds of hours in service for local dog shelters, Boy Scouts, math
-    tutoring, and numerous college service opportunities.
+    spent hundreds of hours in service through local dog shelters, Boy Scouts,
+    math tutoring, and numerous college service events.
 intro:
-  heading: Experience
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Job Experience
+  text: lalal
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -25,12 +21,6 @@ products:
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 values:
   heading: Our values
   text: >-
