@@ -1,16 +1,17 @@
 ---
-title: Willie's Resume
-subtitle: Support sustainable farming while enjoying a cup
+title: Willie Zempel
+subtitle: Mechanical Engineer
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: About Me
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I am a recent mechanical engineering graduate from University of Louisville.
+    I have various skills such as Solidworks, AutoCAD, Adobe Inventor, Toon Boom
+    Harmony, SAP, OBS Studio, Makerbot, Garageband, and Microsoft Office. I have
+    spent hundreds of hours in service for local dog shelters, Boy Scouts, math
+    tutoring, and numerous college service opportunities.
 intro:
-  heading: What we offer
+  heading: Experience
   text: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
